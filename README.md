@@ -51,19 +51,6 @@ O projeto foi construído utilizando Microsoft Excel como fonte de dados e Power
 
 ---
 
-# 📁 Estrutura
-
-```
-PowerBI-Commercial-Dashboard
-│
-├── Dashboard.pbix
-├── Base.xlsx
-├── README.md
-└── imagens
-```
-
----
-
 # 🚀 Competências
 
 - Business Intelligence
